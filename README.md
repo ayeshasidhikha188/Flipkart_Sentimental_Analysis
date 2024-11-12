@@ -87,26 +87,6 @@ To make the sentiment analysis model accessible in real-time, the following step
 
 ---
 
-## Usage
-
-To run the project locally:
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/ayeshasidhikha188/Flipkart_Sentimental_Analysis.git
-    cd Flipkart_Sentimental_Analysis
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Start the Flask/Streamlit app:
-    ```bash
-    python app.py  # or streamlit run app.py for Streamlit
-    ```
-
-4. Access the app in your browser at `http://localhost:5000` for Flask or `http://localhost:8501` for Streamlit.
-
----
 
 ## Technologies Used
 
